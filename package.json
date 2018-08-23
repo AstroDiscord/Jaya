@@ -1,0 +1,27 @@
+{
+  "name": "jaya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "enmap": "^3.1.3",
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "lodash": "^4.17.10",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstroDiscord/Jaya.git"
+  },
+  "author": "Astro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstroDiscord/Jaya/issues"
+  },
+  "homepage": "https://github.com/AstroDiscord/Jaya#readme"
+}
