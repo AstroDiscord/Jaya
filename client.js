@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const fs = requrire("fs");
+const fs = require("fs");
 
 const config = require("./data/configs/config.json");
 
